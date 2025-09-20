@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\users\\roberto diaz\\desktop\\nueva carpeta (3)\\garajemvc\\garajemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\users\\roberto diaz\\desktop\\nueva carpeta (3)\\garajemvc\\garajemvc\\models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:models\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\users\\roberto diaz\\desktop\\nueva carpeta (3)\\garajemvc\\garajemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\users\\roberto diaz\\desktop\\nueva carpeta (3)\\garajemvc\\garajemvc\\models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:models\\garage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\users\\roberto diaz\\desktop\\nueva carpeta (3)\\garajemvc\\garajemvc\\garajemvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:garajemvc.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|c:\\users\\roberto diaz\\desktop\\nueva carpeta (3)\\garajemvc\\garajemvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{411508BB-FE82-4361-97AC-71F573564985}|GarajeMVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T02:38:34.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GarajeMVC",
+              "DocumentMoniker": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\GarajeMVC.csproj",
+              "RelativeDocumentMoniker": "GarajeMVC.csproj",
+              "ToolTip": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\GarajeMVC.csproj",
+              "RelativeToolTip": "GarajeMVC.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-20T02:38:21.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-20T01:53:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:51:39.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Models\\Auto.cs",
+              "RelativeDocumentMoniker": "Models\\Auto.cs",
+              "ToolTip": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Models\\Auto.cs",
+              "RelativeToolTip": "Models\\Auto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:22:02.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Garage.cs",
+              "DocumentMoniker": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Models\\Garage.cs",
+              "RelativeDocumentMoniker": "Models\\Garage.cs",
+              "ToolTip": "C:\\Users\\Roberto DIaz\\Desktop\\Nueva carpeta (3)\\GarajeMVC\\GarajeMVC\\Models\\Garage.cs",
+              "RelativeToolTip": "Models\\Garage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:21:23.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
